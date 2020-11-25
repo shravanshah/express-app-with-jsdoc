@@ -1,1 +1,1 @@
-# Swagger: Express app with JsDoc!
+# Swagger: Express app with JSDoc!
